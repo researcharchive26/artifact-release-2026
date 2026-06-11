@@ -1,0 +1,20 @@
+# Generated outputs
+H.csv
+S.csv
+bundle.json
+result.csv
+result_static.csv
+result_dynamic.csv
+
+# Source data (too large for git)
+bundles.json
+bundles2.json
+bundles3.json
+bundles.zip
+
+# Old format leftovers
+H.txt
+S.txt
+bundle.txt
+result.txt
+__pycache__/

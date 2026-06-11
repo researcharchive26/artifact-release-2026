@@ -1,0 +1,3 @@
+[submodule "rbuilder"]
+	path = rbuilder
+	url = https://github.com/flashbots/rbuilder.git
